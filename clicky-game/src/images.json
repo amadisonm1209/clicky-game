@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Suzy",
+      "clicked": false,
+      "image": "/img/suzy.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tilda",
+      "clicked": false,
+      "image": "/img/9d7088f8ea3649636ebad54112307ff3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Adrian",
+      "clicked": false,
+      "image": "/img/adrian.gif"
+    },
+    {
+      "id": 4,
+      "name": "Chas",
+      "clicked": false,
+      "image": "/img/chaz.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fox",
+      "clicked": false,
+      "image": "/img/fox.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gustave",
+      "clicked": false,
+      "image": "/img/Gustave.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jeff",
+      "clicked": false,
+      "image": "/img/jeff.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ned",
+      "clicked": false,
+      "image": "/img/ned.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sam",
+      "clicked": false,
+      "image": "/img/Sam3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Steve",
+      "clicked": false,
+      "image": "/img/Steve2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Scout",
+      "clicked": false,
+      "image": "/img/scoutmaster.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Royal",
+      "clicked": false,
+      "image": "/img/The-Royal-Tenenbams4.jpg"
+    }
+]
