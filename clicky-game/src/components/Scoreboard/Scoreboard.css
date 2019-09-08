@@ -1,0 +1,22 @@
+.scoreboard {
+    max-height: 600px;
+    width: 100%;
+    margin: 0;
+    overflow: auto;
+    background-image: url("https://www.muralswallpaper.com/app/uploads/PinkRectangle-Georgian-Wood-Panel-Effect-Wallpaper-Mural-Plain-820x532.jpg");
+    background-size: stretch;
+}
+
+.greeting {
+    text-align: center;
+    padding: 40px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}

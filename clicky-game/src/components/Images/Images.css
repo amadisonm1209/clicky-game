@@ -1,7 +1,8 @@
 .image-card {
-    height: 250px;
-    width: 250px;
-    margin-right: 4px;
+    height: 100%;
+    max-height: 200px;
+    width: 200px;
+    max-width: 100%;
     border: 1px solid mediumseagreen;
 }
 

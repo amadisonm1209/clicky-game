@@ -1,0 +1,11 @@
+
+.gameboard {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.media-row {
+    min-width: 0;
+    margin: 50px;
+}

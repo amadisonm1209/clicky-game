@@ -61,7 +61,7 @@ class Game extends Component {
                         feedback={this.state.feedback}
                     />
                     <div className="gameboard container">
-                        <div className="row">
+                        <div className="row media-row">
                                 {this.state.images.map(image => (
                                     <Images
                                         className= "three columns"
