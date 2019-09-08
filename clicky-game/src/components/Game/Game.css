@@ -1,8 +1,11 @@
 
 .gameboard {
     width: 100%;
+    height: 800px;
     display: flex;
     flex-wrap: wrap;
+    background-image: url("https://www.muralswallpaper.com/app/uploads/PinkRectangle-Georgian-Wood-Panel-Effect-Wallpaper-Mural-Plain-820x532.jpg");
+    background-size: contain;
 }
 
 .media-row {
